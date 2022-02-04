@@ -1,0 +1,1 @@
+C:\apps\nmap\nmap-7.92-win32\nmap-7.92\ncat.exe localhost 4000 < 1_good.txt

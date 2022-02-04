@@ -1,0 +1,5 @@
+INSERT C 1 some
+INSERT A 5 some
+INSERT A 5 some
+TRUNCATE A
+INSERT A 5 some
